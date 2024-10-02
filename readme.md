@@ -8,7 +8,6 @@ TECH CHALLENGERS
 ### Team Members:
 KARTIK AURSANG(LEADER),
 SOURABH SHENDGE,
-NANDKISHORE YELE.
 ------------------------------------------
 
 ### Problem Statement:
