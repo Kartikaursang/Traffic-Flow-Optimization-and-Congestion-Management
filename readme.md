@@ -16,6 +16,14 @@ To address these challenges, the **Adaptive Traffic Signal Timer** provides a Co
 
 ---
 
+## Technologies Used
+
+- **YOLO Object Detection**: For real-time vehicle detection and classification.
+- **Python**: Core programming language for implementation.
+- **Pygame**: For traffic flow simulation.
+- **OpenCV**: For processing camera feed and image analysis.
+
+---
 ## Features
 
 ### **Real-Time Traffic Density Assessment**
@@ -113,14 +121,7 @@ Dynamic signal changes and traffic flow simulation.
 3. **Decision-Making**: The algorithm determines optimal signal timings based on traffic density.
 4. **Output**: Adjusted signal durations dynamically control traffic flow.
 
----
 
-## Technologies Used
-
-- **YOLO Object Detection**: For real-time vehicle detection and classification.
-- **Python**: Core programming language for implementation.
-- **Pygame**: For traffic flow simulation.
-- **OpenCV**: For processing camera feed and image analysis.
 
 ---
 
