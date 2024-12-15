@@ -1,15 +1,5 @@
 ------------------------------------------
 
-### Team Name
-
-TECH CHALLENGERS
-
-------------------------------------------
-### Team Members:
-KARTIK AURSANG(LEADER),
-SOURABH SHENDGE
-------------------------------------------
-
 ### Problem Statement:
 Traffic Flow Optimization and Congestion Management
 
